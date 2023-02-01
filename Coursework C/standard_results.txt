@@ -1,0 +1,23 @@
+Spread of Classes for D2:
+One: 472  Two:  484  Three:  490  Four:  481  Five:  476 
+Spread of Classes for D3:
+One: 653  Two:  693  Three:  645  Four:  718  Five:  689 
+Spread of Classes for D4:
+One: 675  Two:  741  Three:  707  Four:  781  Five:  770 
+Finished.
+
+MINE submitted before:
+One: 487  Two:  479  Three:  480  Four:  485  Five:  470
+Spread of Classes for D3: 
+One: 666  Two:  658  Three:  663  Four:  748  Five:  704
+Spread of Classes for D4: 
+One: 695  Two:  714  Three:  723  Four:  783  Five:  797
+Finished.
+
+new mine:
+One: 484  Two:  494  Three:  464  Four:  481  Five:  457
+Spread of Classes for D3: 
+One: 683  Two:  666  Three:  677  Four:  740  Five:  680
+Spread of Classes for D4: 
+One: 703  Two:  727  Three:  703  Four:  783  Five:  769
+Finished.
